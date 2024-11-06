@@ -3,7 +3,7 @@
 ## This project is a Weather App developed in Flutter:
 
 The functionalities included are: 
-Bloc State management
+Bloc State Management
 Weather API
 
 
