@@ -6,6 +6,4 @@ The functionalities included are:
 Bloc State Management
 Weather API
 
-
-
 ![weatherapp](https://github.com/user-attachments/assets/3cbf5a37-bdd0-422f-88eb-381ff07bc480)
