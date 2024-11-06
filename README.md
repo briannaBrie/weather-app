@@ -1,8 +1,10 @@
 # weather_app
 
-## This project is a Weather App developed in Flutter with Bloc State management.
+## This project is a Weather App developed in Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+The functionalities included are: 
+Bloc State management
+Weather API
 
 
 
